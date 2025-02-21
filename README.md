@@ -1,0 +1,5 @@
+*/ Challenges: nothing worked by the book, as the theory said. God bless whomever invented Stackoverflow and Copilot. It took me double time and effort, and I cannot say that I am new on git or git commands or version control systems.
+  Also, SSH key took me at least 2 hours to set it up, because apparently I don't have rights to generate a new one. I had to reuse one that I found on my laptop. After many attempts, some of the commands worked. I cannot reproduce what I did to make it work, so we'll leave it like this. Why to break what it's working?
+ New things: how to use Copilot. And re-used with the GitHub UI, last time I used only commands on the client's project.
+ Feedback...writing code is more or less easy, but setting up projects and git configurations can be really exhausting.
+   /*
